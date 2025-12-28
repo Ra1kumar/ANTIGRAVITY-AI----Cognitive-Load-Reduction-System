@@ -1,3 +1,4 @@
+ HEAD
 # ANTIGRAVITY AI – Cognitive Load Reduction System
 
 An AI-powered web application that intelligently organizes, prioritizes, and simplifies tasks to reduce mental friction and prevent burnout.
@@ -249,3 +250,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Experience the future of task management with ANTIGRAVITY AI – where AI works invisibly to reduce your mental friction.**
+
+# ANTIGRAVITY-AI----Cognitive-Load-Reduction-System
+
